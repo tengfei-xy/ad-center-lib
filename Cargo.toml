@@ -3,7 +3,7 @@ name = "ad-center-lib"
 version = "0.1.0"
 edition = "2021"
 
-description = ""
+description = "作为ad-center的依赖库"
 homepage = "https://github.com/tengfei-xy/ad-center-lib"
 repository = "https://github.com/tengfei-xy/ad-center-lib"
 license = "MIT OR Apache-2.0"
